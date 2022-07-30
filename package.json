@@ -20,7 +20,7 @@
     "eslint": "8.14.0",
     "jest": "28.1.0",
     "supertest": "6.2.3",
-    "cleanup": "knex seed:run --specific-01-cleanup.js"
+    "cleanup":"knex seed:run --specific-01-cleanup.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
