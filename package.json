@@ -19,8 +19,7 @@
     "cross-env": "7.0.3",
     "eslint": "8.14.0",
     "jest": "28.1.0",
-    "supertest": "6.2.3",
-    "cleanup":"knex seed:run --specific-01-cleanup.js"
+    "supertest": "6.2.3"
   },
   "dependencies": {
     "cors": "^2.8.5",
